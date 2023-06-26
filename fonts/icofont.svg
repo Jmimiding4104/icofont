@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+<font id="icofont" horiz-adv-x="1000" >
+<font-face font-family="IcoFont" font-weight="400" font-style="Regular" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="address" horiz-adv-x="1000" unicode="&#x13ab9;" d="M956 642c7-16 13-32 13-50l0-500c0-53-41-94-94-94l-750 0c-19 0-34 6-50 12 19-25 47-43 81-43l750 0c53 0 94 40 94 93l0 500c0 35-19 63-44 82z" />
+<glyph glyph-name="address" horiz-adv-x="1000" unicode="&#x13ab8;" d="M94 717l750 0c51 0 91-38 93-88l1-6 0-500c0-51-38-91-88-94l-6 0-750 0c-51 0-91 38-94 88l0 6 0 500c0 51 38 91 88 94l6 0 750 0-750 0z m250-344l-125 0c-51 0-91-38-94-88l0-6 0-94c0-17 11-29 27-31l4 0 250 0c18 0 30 11 31 28l1 3 0 94c0 51-38 91-88 94l-6 0z m344-94l-157 0c-18 0-31-12-31-31 0-17 11-29 27-31l4 0 157 0c18 0 31 12 31 31 0 17-11 29-28 31l-3 0z m93 125l-250 0c-18 0-31-12-31-31 0-17 11-29 27-31l4 0 250 0c19 0 32 12 32 31 0 17-11 29-28 31l-4 0z m-500 188l-6 0c-50-3-87-43-87-94 0-51 37-91 87-94l6 0 6 0c50 3 88 43 88 94 0 51-38 91-88 94l-6 0z" />
+</font>
+</defs>
+</svg>
